@@ -1,0 +1,8 @@
+## Name of the node
+-name erldns@127.0.0.1
+
+## Cookie for distributed erlang
+-setcookie erldns
+
+## Always enable SMP
+-smp
